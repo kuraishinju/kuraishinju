@@ -1,1 +1,1 @@
-- 🔭 I'm trying to specialize as a ML engineer
+- 🔭 Specializing as a ML engineer
