@@ -1,1 +1,2 @@
-- 🔭 Specializing as a ML engineer
+- 💻 Software and backend developer with Python during my free time
+- 🐈 Cat mom full time
